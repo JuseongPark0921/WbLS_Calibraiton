@@ -18,3 +18,15 @@ This directory hold analysis example. The analysis may directly interact with DR
 
 - check directory
 - make list.txt for target days
+
+## Calibration validating
+CheckCSVvaildation.ipynb
+
+- first cell run 30t validaton
+- second cell run 1t validation : when 1ton b1ch0 issue cleared, remove force setting as 0
+
+## Calibration Monitor graph
+. CalibrationMonitor.py
+
+## CheckCalibration.ipynb
+When you want to look waveform directly, in range of charge, use this
