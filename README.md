@@ -11,6 +11,11 @@ This directory hold analysis example. The analysis may directly interact with DR
 . calibration30t sumSPE30t_v2.py YYMMDD HHmm
 
 - check directory for path defined in sumSPE30t_v2.py
+- 
+### Polya fitting parameters
+- you don't need to adjust N. it is auto generated with height of graph.
+- k > 1 -> simillar with gaussian. k = 1 -> simillar with exponential : actually you don't need to adjust it, too
+- Increasing the parameter 𝜃 broadens the distribution, shifting its peak position to higher values and extending its tail.
 
 # WbLS Calibraiton 1T
 
